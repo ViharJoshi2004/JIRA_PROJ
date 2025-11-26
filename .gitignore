@@ -1,0 +1,18 @@
+# PHP / Config files with sensitive data
+db.php
+config.php
+
+# IDE / Editor files
+nbproject/private/
+.vscode/
+.idea/
+
+# Vendor (agar kabhi composer use karo)
+vendor/
+
+# Node modules (agar frontend tools use karoge)
+node_modules/
+
+# System files
+.DS_Store
+Thumbs.db
